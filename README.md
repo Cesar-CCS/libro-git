@@ -29,7 +29,7 @@ Capítulo 3: Gestión de ramas
 Capítulo 4: Repositorios remotos
 2. Mostrar los cambios con respecto a la última versión guardada en el repositorio.
 3. Hacer un commit de los cambios con el mensaje “Añadido capítulo 3 sobre gestión de ramas”.
-
+> ![5](https://user-images.githubusercontent.com/78839789/190550322-f0be18b5-533d-44c4-ac9a-e2a9cae28467.png)
 ### Ejercicio 6 ###
 1. Mostrar los cambios de la última versión del repositorio con respecto a la anterior.
 2. Cambiar el mensaje del último commit por “Añadido capítulo 3 sobre gestión de ramas al índice.”
