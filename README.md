@@ -4,7 +4,7 @@
 ### Ejercicio 1 ###
 Configurar Git definiendo el nombre del usuario, el correo electrónico y activar el coloreado de la salida. Mostrar la configuración final.
 git config –-global color.ui auto
-
+> ![1](https://user-images.githubusercontent.com/78839789/190549823-bc5c576a-3bab-4354-944e-b40305a3b2fa.png)
 ### Ejercicio 2 ###
 Crear un repositorio nuevo con el nombre libro y mostrar su contenido.
 
