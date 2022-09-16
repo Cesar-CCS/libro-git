@@ -45,5 +45,11 @@ Capítulo 4: Repositorios remotos </pre></code>
 3. Añadir los cambios a la zona de intercambio temporal.
 4. Hacer un commit de los cambios con el mensaje “Añadido capítulo 1.”
 5. Volver a mostrar el historial de cambios del repositorio.
-
-
+### Ejercicio 2 ###
+1. Crear el fichero capitulo2.txt en la carpeta capitulos con el siguiente texto.
+<pre><code> El flujo de trabajo básico con Git consiste en: 1- Hacer cambios en 
+el repositorio. 2- Añadir los cambios a la zona de intercambio temporal. 
+3- Hacer un commit de los cambios. </pre></code>
+2. Añadir los cambios a la zona de intercambio temporal.
+3. Hacer un commit de los cambios con el mensaje “Añadido capítulo 2.”
+4. Mostrar las diferencias entre la última versión y dos versiones anteriores.
