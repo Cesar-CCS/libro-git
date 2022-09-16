@@ -11,9 +11,9 @@ Crear un repositorio nuevo con el nombre libro y mostrar su contenido.
 ### Ejercicio 3 ###
 1. Comprobar el estado del repositorio.
 2. Crear un fichero indice.txt con el siguiente contenido:
-Capítulo 1: Introducción a Git
+<pre><code>Capítulo 1: Introducción a Git
 Capítulo 2: Flujo de trabajo básico
-Capítulo 3: Repositorios remotos
+Capítulo 3: Repositorios remotos</pre></code>
 1. Comprobar de nuevo el estado del repositorio.
 2. Añadir el fichero a la zona de intercambio temporal.
 3. Volver a comprobar una vez más el estado del repositorio.
@@ -23,10 +23,10 @@ Realizar un commit de los últimos cambios con el mensaje “Añadido índice de
 > ![4](https://user-images.githubusercontent.com/78839789/190550234-03458947-7e23-494c-b1f3-73b5fa6393c9.png)
 ### Ejercicio 5 ###
 1. Cambiar el fichero indice.txt para que contenga lo siguiente:
-Capítulo 1: Introducción a Git
+<pre><code> Capítulo 1: Introducción a Git
 Capítulo 2: Flujo de trabajo básico
 Capítulo 3: Gestión de ramas
-Capítulo 4: Repositorios remotos
+Capítulo 4: Repositorios remotos </pre></code>
 2. Mostrar los cambios con respecto a la última versión guardada en el repositorio.
 3. Hacer un commit de los cambios con el mensaje “Añadido capítulo 3 sobre gestión de ramas”.
 > ![5](https://user-images.githubusercontent.com/78839789/190550322-f0be18b5-533d-44c4-ac9a-e2a9cae28467.png)
