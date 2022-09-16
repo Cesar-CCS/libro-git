@@ -17,6 +17,7 @@ Capítulo 3: Repositorios remotos
 1. Comprobar de nuevo el estado del repositorio.
 2. Añadir el fichero a la zona de intercambio temporal.
 3. Volver a comprobar una vez más el estado del repositorio.
+> ![3](https://user-images.githubusercontent.com/78839789/190550169-f253bd40-e282-4b04-9cd5-a059f0fbd40e.png)
 
 ### Ejercicio 4 ###
 Realizar un commit de los últimos cambios con el mensaje “Añadido índice del libro.” y ver el estado del repositorio.
