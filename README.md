@@ -96,7 +96,7 @@ del mismo proyecto y trabajar de manera simultanea en ellas.</pre></code>
 7. Comprobar de nuevo el estado del repositorio.
 8. Deshacer los cambios realizados para volver a la versión del repositorio.
 9. Volver a comprobar el estado del repositorio.
-
+>![3](https://user-images.githubusercontent.com/78839789/190561215-f027a5fa-9662-424c-abfd-d543d4de62ae.png)
 ### Ejercicio 4 ###
 1. Eliminar la última línea del fichero indice.txt y guardarlo.
 2. Eliminar el fichero capitulos/capitulo3.txt.
