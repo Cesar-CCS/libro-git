@@ -7,7 +7,7 @@ git config –-global color.ui auto
 > ![1](https://user-images.githubusercontent.com/78839789/190549823-bc5c576a-3bab-4354-944e-b40305a3b2fa.png)
 ### Ejercicio 2 ###
 Crear un repositorio nuevo con el nombre libro y mostrar su contenido.
-
+![2](https://user-images.githubusercontent.com/78839789/190550041-cbbdea7f-5a82-48e2-aa3d-3bff066a2961.png)
 ### Ejercicio 3 ###
 1. Comprobar el estado del repositorio.
 2. Crear un fichero indice.txt con el siguiente contenido:
