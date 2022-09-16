@@ -53,6 +53,7 @@ el repositorio. 2- Añadir los cambios a la zona de intercambio temporal.
 2. Añadir los cambios a la zona de intercambio temporal.
 3. Hacer un commit de los cambios con el mensaje “Añadido capítulo 2.”
 4. Mostrar las diferencias entre la última versión y dos versiones anteriores.
+> ![2](https://user-images.githubusercontent.com/78839789/190558394-5a5006c9-acbf-48dd-a06f-d7fb62d980de.png)
 ### Ejercicio 3 ###
 1. Crear el fichero capitulo3.txt en la carpeta capitulos con el siguiente texto.
 <pre><code>Git permite la creación de ramas lo que permite tener distintas versiones 
