@@ -76,6 +76,7 @@ del mismo proyecto y trabajar de manera simultanea en ellas.</pre></code>
 2. Comprobar el estado del repositorio.
 3. Deshacer los cambios realizados en el fichero indice.txt para volver a la versión anterior del fichero.
 4. Volver a comprobar el estado del repositorio.
+> ![1](https://user-images.githubusercontent.com/78839789/190561084-31b15c54-17ac-4d9e-845b-b184edd2fa92.png)
 ### Ejercicio 2 ###
 1. Eliminar la última línea del fichero indice.txt y guardarlo.
 2. Añadir los cambios a la zona de intercambio temporal.
@@ -84,6 +85,7 @@ del mismo proyecto y trabajar de manera simultanea en ellas.</pre></code>
 5. Comprobar de nuevo el estado del repositorio.
 6. Deshacer los cambios realizados en el fichero indice.txt para volver a la versión anterior del fichero.
 7. Volver a comprobar el estado del repositorio.
+
 ### Ejercicio 3 ###
 1. Eliminar la última línea del fichero indice.txt y guardarlo.
 2. Eliminar el fichero capitulos/capitulo3.txt.
