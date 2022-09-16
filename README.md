@@ -34,3 +34,4 @@ Capítulo 4: Repositorios remotos
 1. Mostrar los cambios de la última versión del repositorio con respecto a la anterior.
 2. Cambiar el mensaje del último commit por “Añadido capítulo 3 sobre gestión de ramas al índice.”
 3. Volver a mostrar los últimos cambios del repositorio.
+> ![6](https://user-images.githubusercontent.com/78839789/190550411-68d2acc1-d465-4a6e-ad24-e94b3b4f3447.png)
