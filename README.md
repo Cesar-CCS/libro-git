@@ -35,7 +35,6 @@ Capítulo 4: Repositorios remotos </pre></code>
 2. Cambiar el mensaje del último commit por “Añadido capítulo 3 sobre gestión de ramas al índice.”
 3. Volver a mostrar los últimos cambios del repositorio.
 > ![6](https://user-images.githubusercontent.com/78839789/190550411-68d2acc1-d465-4a6e-ad24-e94b3b4f3447.png)
-
 ## Ejercicios de manejo del historial de cambios ##
 ### Ejercicio 1 ###
 1. Mostrar el historial de cambios del repositorio.
@@ -107,3 +106,4 @@ del mismo proyecto y trabajar de manera simultanea en ellas.</pre></code>
 7. Volver a hacer el commit con el mismo mensaje de antes.
 8. Deshacer el último commit y los cambios anteriores del directorio de trabajo volviendo a la versión anterior del repositorio.
 9. Comprobar de nuevo el historial y el estado del repositorio.
+>![4](https://user-images.githubusercontent.com/78839789/190561273-63282fc7-a6d2-40fd-bc16-d710886f077a.png)
