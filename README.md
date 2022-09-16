@@ -1,6 +1,6 @@
 ## Cesar Castro Salazar ##
-## Cesar Castro Salazar ##
-# Ejercicios basicos con git #
+## 18100157 ##
+### Ejercicios basicos con git ###
 # Ejercicio 1 #
 Configurar Git definiendo el nombre del usuario, el correo electrónico y activar el coloreado de la salida. Mostrar la configuración final.
 git config –-global color.ui auto
