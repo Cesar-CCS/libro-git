@@ -61,6 +61,7 @@ del mismo proyecto y trabajar de manera simultanea en ellas.</pre></code>
 2. Añadir los cambios a la zona de intercambio temporal.
 3. Hacer un commit de los cambios con el mensaje “Añadido capítulo 3.”
 4. Mostrar las diferencias entre la primera y la última versión del repositorio.
+> ![3](https://user-images.githubusercontent.com/78839789/190558486-6fb90c22-ff80-4867-b34c-8e14ed0c003a.png)
 ### Ejercicio 4 ###
 1. Añadir al final del fichero indice.txt la siguiente línea:
 <pre><code>Capítulo 5: Conceptos avanzados</pre></code>
