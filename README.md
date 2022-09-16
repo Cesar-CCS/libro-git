@@ -35,3 +35,15 @@ Capítulo 4: Repositorios remotos
 2. Cambiar el mensaje del último commit por “Añadido capítulo 3 sobre gestión de ramas al índice.”
 3. Volver a mostrar los últimos cambios del repositorio.
 > ![6](https://user-images.githubusercontent.com/78839789/190550411-68d2acc1-d465-4a6e-ad24-e94b3b4f3447.png)
+
+## Ejercicios basicos con git ##
+## Ejercicios de manejo del historial de cambios ##
+### Ejercicio 1 ###
+1. Mostrar el historial de cambios del repositorio.
+2. Crear la carpeta capitulos y crear dentro de ella el fichero capitulo1.txt con el siguiente texto.
+<pre><code>Git es un sistema de control de versiones ideado por Linus Torvalds.</pre></code>
+3. Añadir los cambios a la zona de intercambio temporal.
+4. Hacer un commit de los cambios con el mensaje “Añadido capítulo 1.”
+5. Volver a mostrar el historial de cambios del repositorio.
+
+
