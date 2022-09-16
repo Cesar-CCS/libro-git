@@ -47,9 +47,22 @@ Capítulo 4: Repositorios remotos </pre></code>
 5. Volver a mostrar el historial de cambios del repositorio.
 ### Ejercicio 2 ###
 1. Crear el fichero capitulo2.txt en la carpeta capitulos con el siguiente texto.
-<pre><code> El flujo de trabajo básico con Git consiste en: 1- Hacer cambios en 
+<pre><code>El flujo de trabajo básico con Git consiste en: 1- Hacer cambios en 
 el repositorio. 2- Añadir los cambios a la zona de intercambio temporal. 
 3- Hacer un commit de los cambios. </pre></code>
 2. Añadir los cambios a la zona de intercambio temporal.
 3. Hacer un commit de los cambios con el mensaje “Añadido capítulo 2.”
 4. Mostrar las diferencias entre la última versión y dos versiones anteriores.
+### Ejercicio 3 ###
+1. Crear el fichero capitulo3.txt en la carpeta capitulos con el siguiente texto.
+<pre><code>Git permite la creación de ramas lo que permite tener distintas versiones 
+del mismo proyecto y trabajar de manera simultanea en ellas.</pre></code>
+2. Añadir los cambios a la zona de intercambio temporal.
+3. Hacer un commit de los cambios con el mensaje “Añadido capítulo 3.”
+4. Mostrar las diferencias entre la primera y la última versión del repositorio.
+### Ejercicio 4 ###
+1. Añadir al final del fichero indice.txt la siguiente línea:
+<pre><code>Capítulo 5: Conceptos avanzados</pre></code>
+2. Añadir los cambios a la zona de intercambio temporal.
+3. Hacer un commit de los cambios con el mensaje “Añadido capítulo 5 al índice.”.
+4. Mostrar quién ha hecho cambios sobre el fichero indice.txt.
