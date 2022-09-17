@@ -132,7 +132,7 @@ Crear una nueva rama bibliografia y mostrar las ramas del repositorio.
 2. Mostrar la historia del repositorio incluyendo todas las ramas.
 4. Eliminar la rama bibliografia.
 4. Mostrar de nuevo la historia del repositorio incluyendo todas las ramas.
-
+>![4](https://user-images.githubusercontent.com/78839789/190839915-10ae68be-9180-4fdc-9621-7818fd207a94.png)
 ### Ejercicio 5 ###
 1. Crear la rama bibliografia.
 2. Cambiar a la rama bibliografia.
