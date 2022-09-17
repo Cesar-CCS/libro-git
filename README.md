@@ -118,7 +118,7 @@ Crear una nueva rama bibliografia y mostrar las ramas del repositorio.
 2. Añadir los cambios a la zona de intercambio temporal.
 3. Hacer un commit con el mensaje “Añadido capítulo 4.”
 4. Mostrar la historia del repositorio incluyendo todas las ramas.
-
+>![2](https://user-images.githubusercontent.com/78839789/190839851-df19a9ce-f2a1-4a9f-943a-67a1ede00807.png)
 ### Ejercicio 3 ###
 1. Cambiar a la rama bibliografia.
 2. Crear el fichero bibliografia.txt y añadir la siguiente referencia
