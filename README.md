@@ -111,7 +111,7 @@ del mismo proyecto y trabajar de manera simultanea en ellas.</pre></code>
 ## Ejercicios de gestión de ramas ##
 ### Ejercicio 1 ###
 Crear una nueva rama bibliografia y mostrar las ramas del repositorio.
-
+>![1](https://user-images.githubusercontent.com/78839789/190839824-842e7e6e-b9cf-4b65-b90a-5580278d3145.png)
 ### Ejercicio 2 ###
 1. Crear el fichero capitulos/capitulo4.txt y añadir el texto siguiente
 <pre><code>En este capítulo veremos cómo usar GitHub para alojar repositorios en remoto.</pre></code>
