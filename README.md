@@ -126,7 +126,7 @@ Crear una nueva rama bibliografia y mostrar las ramas del repositorio.
 2. Añadir los cambios a la zona de intercambio temporal.
 3. Hacer un commit con el mensaje “Añadida primera referencia bibliográfica.”
 4. Mostrar la historia del repositorio incluyendo todas las ramas.
-
+>![3](https://user-images.githubusercontent.com/78839789/190839895-e4a9a834-81fd-406f-bfdb-d409427c8dd8.png)
 ### Ejercicio 4 ###
 1. Fusionar la rama bibliografia con la rama master.
 2. Mostrar la historia del repositorio incluyendo todas las ramas.
